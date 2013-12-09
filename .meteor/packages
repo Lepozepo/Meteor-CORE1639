@@ -8,7 +8,5 @@ autopublish
 insecure
 preserve-inputs
 iron-router
-less
-bootstrap3-less
 coffeescript
 spiderable
